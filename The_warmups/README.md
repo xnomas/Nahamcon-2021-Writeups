@@ -15,7 +15,7 @@ Just click through the second, and here we go:
 
 </br>
 
-![flag](.flag.png)
+![flag](./flag.png)
 
 </br>
 Nice!
