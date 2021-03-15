@@ -19,7 +19,9 @@ Again we have to look at the `constellations.page` page. And from `Bionic` we ha
 
 ## Page
 </br>
+
 ![pag](./pag.png)
+
 </br>
 
 We have to recover the list! Again we can use [webctf](https://github.com/xnomas/web-ctf-help) to find hints:
